@@ -4,8 +4,8 @@ import java.util.concurrent.*;
 public class AppPuzzle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String objetivo = "ABCDEFGHIJKLMNOPQRSXUVW T";
-        String estadoInicial ="ABCDEFGHIJKLMNOPQRS UVWTX";
+        String objetivo = "123456789ABCDEFGHIJKLMNO "; 
+        String estadoInicial = "123456789ABCDEFGHIJKLMN O";
 
         int opcion;
 
