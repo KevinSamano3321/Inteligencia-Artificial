@@ -1,0 +1,765 @@
+ruta,clase,clase_idx,grupo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_54_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_183_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_27_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_9_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_67_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_90_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_4_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_93_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_109_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_30_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_7_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_1_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_40_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_257_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_29_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_39_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_28_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_147_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_152_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_63_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_27_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_62_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_35_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_37_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_151_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_30_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_95_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_74_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_44_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_26_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_15_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_57_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_15_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_71_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_151_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_23_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_17_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_103_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_47_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_90_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_31_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_79_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_73_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_13_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_298_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_80_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_16_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_25_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_34_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_47_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_62_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_57_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_48_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_65_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_210_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_16_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_115_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_71_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_48_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_39_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_135_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_5_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_54_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_74_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_71_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_74_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_147_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_90_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_14_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_51_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_95_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_90_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_41_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_41_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_64_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_96_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_6_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_94_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_3_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_9_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_216_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_23_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_85_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_29_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_293_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_21_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_104_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_16_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_111_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_75_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_44_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_86_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_104_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_65_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_273_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_150_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_25_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_276_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_78_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_35_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_48_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_75_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_79_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_199_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_58_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_20_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_12_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_79_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_245_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_22_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_13_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_276_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_3_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_88_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_21_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_16_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_74_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_270_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_183_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_31_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_78_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_28_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_79_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_35_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_245_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_298_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_48_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_21_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_21_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_31_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_19_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_32_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_80_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_5_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_35_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_57_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_13_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_39_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_48_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_297_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_21_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_52_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_65_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_54_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_86_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_67_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_210_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_104_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_27_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_38_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_88_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_75_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_182_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_281_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_61_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_174_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_5_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_19_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_182_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_297_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_216_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_74_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_11_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_28_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_61_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_47_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_64_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_86_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_94_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_96_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_58_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_72_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_48_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_78_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_84_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_16_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_64_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_183_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_3_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_32_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_48_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_16_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_57_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_1_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_49_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_92_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_26_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_17_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_22_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_59_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_111_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_81_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_54_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_172_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_11_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_40_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_14_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_199_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_54_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_75_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_35_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_75_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_297_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_35_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_25_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_40_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_117_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_1_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_98_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_68_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_29_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_4_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_90_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_21_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_26_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_62_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_25_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_29_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_17_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_62_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_82_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_150_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_93_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_103_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_41_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_16_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_3_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_21_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_81_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_79_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_148_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_6_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_8_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_276_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_12_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_4_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_20_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_57_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_176_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_7_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_57_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_90_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_96_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_67_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_30_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_49_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_37_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_257_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_27_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_12_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_5_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_55_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_11_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_74_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_90_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_74_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_117_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_62_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_90_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_226_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_3_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_109_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_28_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_8_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_174_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_17_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_41_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_84_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_45_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_11_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_47_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_57_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_71_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_49_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_17_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_7_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_67_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_96_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_30_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_79_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_82_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_182_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_95_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_174_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_88_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_269_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_57_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_46_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_55_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_84_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_49_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_19_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_119_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_78_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_44_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_15_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_46_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_92_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_41_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_63_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_115_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_9_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_4_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_119_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_298_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_34_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_12_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_210_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_34_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_7_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_72_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_96_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_88_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_79_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_20_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_51_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_48_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_78_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_74_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_7_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_281_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_94_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_72_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_4_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_15_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_41_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_44_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_76_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_12_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_30_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_245_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_257_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_68_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_79_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_1_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_20_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_92_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_54_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_32_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_176_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_55_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_86_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_5_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_67_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_55_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_257_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_67_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_6_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_245_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_30_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_70_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_36_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_35_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_12_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_32_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_71_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_293_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_84_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_68_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_281_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_7_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_62_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_61_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_17_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_8_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_33_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_25_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_21_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_172_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_14_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_41_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_79_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_27_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_94_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_45_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_98_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_151_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_15_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_41_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_48_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_47_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_80_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_148_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_78_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_98_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_111_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_115_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_21_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_14_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_21_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_35_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_5_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_12_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_73_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_293_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_79_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_21_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_70_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_27_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_70_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_35_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_37_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_69_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_47_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_269_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_74_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_30_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_74_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_151_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_74_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_48_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_22_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_80_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_51_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_67_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_88_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_32_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_12_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_1_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_79_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_80_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_44_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_92_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_281_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_6_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_74_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_78_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_81_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_98_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_17_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_135_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_11_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_60_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_150_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_109_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_89_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_270_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_79_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_33_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_38_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_21_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_216_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_273_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_35_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_11_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_7_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_174_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_53_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_72_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_210_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_55_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_6_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_169_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_38_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_5_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_26_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_92_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_62_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_36_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_23_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_7_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_172_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_65_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_44_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_80_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_148_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_23_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_48_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_226_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_63_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_7_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_71_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_62_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_294_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_88_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_176_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_45_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_90_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_32_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_7_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_32_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_111_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_8_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_135_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_169_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_3_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_90_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_226_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_199_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_7_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_68_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_182_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_12_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_6_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_6_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_29_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_61_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_59_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_81_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_38_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_68_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_98_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_14_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_21_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_38_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_93_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_226_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_11_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_17_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_25_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_152_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_57_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_69_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_169_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_19_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_12_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_172_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_88_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_16_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_90_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_28_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_35_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_35_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_89_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_76_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_117_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_269_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_297_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_103_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_74_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_5_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_75_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_44_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_152_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_67_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_67_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_33_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_85_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_32_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_294_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_28_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_90_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_40_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_48_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_47_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_78_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_183_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_67_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_11_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_69_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_8_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_60_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_53_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_98_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_98_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_115_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_48_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_135_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_68_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_65_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_65_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_79_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_62_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_48_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_19_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_32_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_90_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_148_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_15_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_44_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_74_proc_aug02.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_90_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_103_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_90_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_273_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_96_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_8_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_39_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_92_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_68_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_14_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_75_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_57_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_36_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_32_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_30_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_25_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_3_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_55_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_71_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_48_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_96_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_16_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_8_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_6_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_7_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_48_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_14_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_34_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_85_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_89_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_3_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_15_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_293_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_52_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_64_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_48_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_46_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_70_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_79_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_28_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_55_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_21_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_79_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_19_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_35_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_93_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_65_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_37_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_7_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_79_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_80_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_1_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_51_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_46_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_294_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_52_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_22_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_54_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_61_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_41_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_12_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_73_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_92_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_82_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_61_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_74_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_38_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_44_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_1_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_152_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_92_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_88_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_95_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_21_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_62_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_85_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_80_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_176_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_104_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_57_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_36_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_59_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_270_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_61_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_68_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_16_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_16_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_109_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_48_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_4_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_41_proc_aug02.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_74_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_4_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_14_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_76_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_73_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_98_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_59_proc_aug02.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_44_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_58_proc_aug02.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_269_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_216_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_16_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_29_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_63_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_60_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_28_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_29_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_41_proc_aug03.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_48_proc_aug01.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_35_proc_aug01.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_7_proc_aug03.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_11_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_27_proc_aug02.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_11_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_11_proc_aug02.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_44_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_62_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_79_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_147_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_33_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_89_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_8_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_9_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_298_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_4_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_35_proc.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_38_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_15_proc_aug01.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_19_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_169_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_270_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_29_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_67_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_60_proc.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_35_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_79_proc_aug03.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_273_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_147_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_7_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_79_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_58_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_47_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_35_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_199_proc_aug03.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_44_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_54_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_1_proc_aug03.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_75_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_79_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_55_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_61_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_35_proc.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_76_proc_aug03.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_12_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_52_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_31_proc.jpg,Nicole Kidman,9,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_38_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_35_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_67_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_13_proc_aug02.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_32_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_119_proc.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_117_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_57_proc.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_48_proc_aug02.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_32_proc_aug01.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_11_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_71_proc_aug01.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_150_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_35_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_96_proc.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_276_proc_aug01.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_119_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Israel\Israel_16_proc.jpg,Israel,2,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_65_proc_aug01.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Johnny Depp\Johnny_Depp_19_proc_aug03.jpg,Johnny Depp,5,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_69_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_62_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_294_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_45_proc.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_25_proc_aug01.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Jennifer Lawrence\JenniferLawrence_16_proc_aug01.jpg,Jennifer Lawrence,3,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_82_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Joey\Joey_16_proc_aug02.jpg,Joey,4,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_53_proc.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Leonardo DiCaprio\Leonardo_DiCaprio_53_proc_aug03.jpg,Leonardo DiCaprio,7,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_90_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Natalie Portman\Natalie_Portman_21_proc_aug02.jpg,Natalie Portman,8,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Kevin\Kevin_16_proc_aug03.jpg,Kevin,6,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Angelina Jolie\Angelina_Jolie_7_proc_aug03.jpg,Angelina Jolie,0,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Brad Pitt\BradPitt_41_proc_aug01.jpg,Brad Pitt,1,Directo
+C:\Users\joeyk\OneDrive\Desktop\CNN\Creación_de_Dataset_híbrido\Face-Recognition Proyect\Dataset_aumentado\Nicole Kidman\Nicole_Kidman_27_proc.jpg,Nicole Kidman,9,Directo
